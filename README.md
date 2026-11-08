@@ -1,4 +1,4 @@
-# kodasistanim_Python_Dersleri
+# Kodasistanim_Python_Dersleri
 ## Bu depo, Python programlama dilini öğrenmek ve öğretmek amacıyla oluşturulmuştur.
 ## İçerik
 
